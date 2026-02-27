@@ -17,7 +17,7 @@ Sistema simples de gerenciamento de chamados para suporte técnico, desenvolvido
 
 Projeto desenvolvido para praticar lógica de programação, estrutura de dados e organização de código, simulando um ambiente real de suporte técnico.
 
-## ▶️ Como executar
+## Como executar
 
 ```bash
 python nome_do_arquivo.py
