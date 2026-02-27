@@ -2,18 +2,18 @@
 
 Sistema simples de gerenciamento de chamados para suporte técnico, desenvolvido em Python.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Criar chamado
 - Listar chamados
 - Atualizar status
 - Excluir chamado
 
-## 🛠 Tecnologias
+## Tecnologias
 
 - Python 3
 
-## 🎯 Objetivo
+## Objetivo
 
 Projeto desenvolvido para praticar lógica de programação, estrutura de dados e organização de código, simulando um ambiente real de suporte técnico.
 
